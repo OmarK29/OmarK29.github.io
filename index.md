@@ -10,7 +10,7 @@ hardware test fixtures to data pipelines and control systems.
 ## Highlights
 - Electrical Engineer intern at **Air Force Research Lab (Space Vehicles Directorate)**
 - Wireless Engineering Intern at **KCI Technologies** (5G infrastructure)
-- Lead engineer on multiple full-stack hardware projects
+- Lead engineer on a full-stack hardware project
 - President of IEEE at Vanderbilt (95% membership growth)
 
 ## What I work on
