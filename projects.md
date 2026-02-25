@@ -38,8 +38,9 @@ resource enablement, engineering education
 - Delivered a full-stack solution: CAD → electronics → firmware → assembly
 
 ### Electrical Schematic
+<p align="center">
 <img src="/assets/images/SyringePumpProject/SyringePumpElectricalSchematic.png" width="70%">
-
+</p>
 **Skills:** embedded systems, motor control, PCB design, Fusion 360,
 rapid prototyping
 
