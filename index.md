@@ -1,7 +1,7 @@
 # Omar Khan
 Electrical & Computer Engineering @ Vanderbilt University
 Minors in Engineering Management, Digital Fabrication, & Computer Science  
-Embedded systems • Automation • Systems engineering
+**[Projects](projects)**  • [Leadership](leadership) • Systems engineering
 
 I’m an ECE student graduating **May 2026** with experience spanning
 embedded systems, automated testing, telecom infrastructure, and
@@ -20,9 +20,9 @@ hardware test fixtures to data pipelines and control systems.
 - CAD, PCB design, prototyping, and system integration
 - Performance optimization & tooling for engineers
 
-👉 **[Projects](projects)**  
-👉 **[Senior Design Project](senior-project)**  
-👉 **[Experience & Leadership](experience)**
+**[Projects](projects)**  
+**[Leadership](leadership)**
+
 
 ## Links
 - GitHub: 
