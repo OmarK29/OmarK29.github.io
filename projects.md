@@ -26,12 +26,19 @@ resource enablement, engineering education
 ## Automated Syringe Pump (Rapid Prototyping)
 **Lead Electrical & Software Engineer — Fall 2024**
 
+<p align="center">
+  <img src="/assets/images/SyringePumpProject/SyringePumpImage.png" width="60%">
+</p>
+
 - Designed and built a **low-cost (>90% cheaper)** automated syringe pump
   to address the high cost of commercial units (>$800)
 - Achieved **±0.0001 mL precision**, matching market-standard performance
 - Implemented real-time embedded firmware using **Arduino + AccelStepper**
 - Designed custom motor control hardware and led PCB prototyping and soldering
 - Delivered a full-stack solution: CAD → electronics → firmware → assembly
+
+### Electrical Schematic
+<img src="/assets/images/SyringePumpProject/SyringePumpElectricalSchematic.png" width="70%">
 
 **Skills:** embedded systems, motor control, PCB design, Fusion 360,
 rapid prototyping

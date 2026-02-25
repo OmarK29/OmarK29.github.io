@@ -1,5 +1,6 @@
 # Omar Khan
-Electrical & Computer Engineering @ Vanderbilt University  
+Electrical & Computer Engineering @ Vanderbilt University
+Minors in Engineering Management, Digital Fabrication, & Computer Science  
 Embedded systems • Automation • Systems engineering
 
 I’m an ECE student graduating **May 2026** with experience spanning
