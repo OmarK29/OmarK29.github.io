@@ -1,5 +1,6 @@
 # Omar Khan
 Electrical & Computer Engineering @ Vanderbilt University
+
 Minors in Engineering Management, Digital Fabrication, & Computer Science  
 **[Projects](projects)** • **[Leadership](leadership)**
 
@@ -25,6 +26,5 @@ hardware test fixtures to data pipelines and control systems.
 
 
 ## Links
-- GitHub: 
-- LinkedIn: 
-- Resume: 
+- GitHub: https://github.com/OmarK29
+- LinkedIn: https://linkedin.com/in/omar-khan-1957a8211
