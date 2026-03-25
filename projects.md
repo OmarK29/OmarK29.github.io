@@ -1,6 +1,6 @@
 # Projects
 
-**[Home](index)**  
+**[Home](index)** • **[Leadership](leadership)**
 
 ## Vanderbilt IEEE Project Showcase (Founded & Hosted)
 **Founder & Lead Organizer — 2025**
