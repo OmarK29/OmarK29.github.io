@@ -10,10 +10,11 @@ systems-level engineering. I enjoy building tools that scale — from
 hardware test fixtures to data pipelines and control systems.
 
 ## Highlights
+- Protection & Control Lead for senior design capstone with Schneider Electric
+- President of IEEE at Vanderbilt (95% membership growth)
 - Electrical Engineer intern at **Air Force Research Lab (Space Vehicles Directorate)**
 - Wireless Engineering Intern at **KCI Technologies** (5G infrastructure)
-- Lead engineer on a full-stack hardware project
-- President of IEEE at Vanderbilt (95% membership growth)
+- Lead engineer on a full-stack hardware project which was commended as the best compact build in that semester for the Rapid Prototyping class
 
 ## What I work on
 - Embedded firmware & test automation (C/C++, Python)

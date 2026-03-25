@@ -2,6 +2,17 @@
 
 **[Home](index)** • **[Leadership](leadership)**
 
+## Schneider Electric & Vanderbilt University | Nashville, TN  
+**Senior Design Capstone – DER Microgrid Protection & Control Lead**  
+**September 2025 – Present**
+
+- Leading design and simulation of a 250 kW DER microgrid (~100 homes) using MATLAB Simscape Electrical  
+- Partnering with Schneider Electric engineers Nurulwahida Jamaludin and Jinlei Xing to align protection architecture with industry-grade DER coordination practices  
+- Implemented Git-based version control and standardized team workflows to improve collaboration and development efficiency  
+- Designing feeder protection schemes to detect, isolate, and clear faults between DERs and load  
+- Developing SOC-based BESS control to maintain voltage and frequency stability in islanded operation  
+- Modeling 24-hour load and solar irradiance profiles to validate system dispatch, resilience, and performance  
+
 ## Vanderbilt IEEE Project Showcase (Founded & Hosted)
 **Founder & Lead Organizer — 2025**
 
