@@ -1,31 +1,25 @@
 # Omar Khan
-Electrical & Computer Engineering @ Vanderbilt University
+Electrical & Computer Engineering -- Vanderbilt University, Class of 2026
 
 Minors in Engineering Management, Digital Fabrication, & Computer Science  
 **[Projects](projects)** • **[Leadership](leadership)**
 
-I’m an ECE student graduating **May 2026** with experience spanning
-embedded systems, automated testing, telecom infrastructure, and
-systems-level engineering. I enjoy building tools that scale — from
-hardware test fixtures to data pipelines and control systems.
+ECE engineer with hands-on experience in power systems design, embedded firmware, and automated test infrastructure. I build things that work reliably under real-world constraints, from microgrid protection schemes to terabyte-scale test suites.
 
 ## Highlights
-- Protection & Control Lead for senior design capstone with Schneider Electric
-- President of IEEE at Vanderbilt (95% membership growth)
-- Electrical Engineer intern at **Air Force Research Lab (Space Vehicles Directorate)**
-- Wireless Engineering Intern at **KCI Technologies** (5G infrastructure)
-- Lead engineer on a full-stack hardware project which was commended as the best compact build in that semester for the Rapid Prototyping class
+- Protection & Control Lead for 250 kW DER microgrid capstone with **Schneider Electric**
+- Electrical Engineer Intern at **Air Force Research Lab, Space Vehicles Directorate**
+- Wireless Engineering Intern at **KCI Technologies** (5G infrastructure, DMV/Northeast)
+- President, IEEE at Vanderbilt (95% membership growth, 152 members)
+- Best Compact Build, Rapid Prototyping, Fall 2024
 
 ## What I work on
-- Embedded firmware & test automation (C/C++, Python)
-- Control systems, sensing, and instrumentation
-- CAD, PCB design, prototyping, and system integration
-- Performance optimization & tooling for engineers
-
-**[Projects](projects)**  
-**[Leadership](leadership)**
-
+- Power systems: microgrid design, DER integration, feeder protection, BESS control
+- Embedded firmware & test automation (C/C++, Python, Arduino)
+- CAD, PCB design, and full-stack hardware prototyping
+- Telecom site planning and RF infrastructure (AutoCAD, KML/Python)
 
 ## Links
-- GitHub: https://github.com/OmarK29
+- Email: omar.f.khan@vanderbilt.edu
 - LinkedIn: https://linkedin.com/in/omar-khan-1957a8211
+- GitHub: https://github.com/OmarK29
