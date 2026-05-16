@@ -1,3 +1,7 @@
 title: Omar Khan
-description: Portfolio
-theme: jekyll-theme-cayman
+description: ECE Engineer — Vanderbilt University
+exclude:
+  - index.md
+  - projects.md
+  - leadership.md
+  - README.md

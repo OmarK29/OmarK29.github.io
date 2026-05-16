@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects — Omar Khan</title>
+  <meta name="description" content="Engineering projects by Omar Khan — microgrid design, embedded hardware, and more.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a href="/" class="nav-name">Omar Khan</a>
+    <ul class="nav-links">
+      <li><a href="/projects.html" class="active">Projects</a></li>
+      <li><a href="/leadership.html">Leadership</a></li>
+      <li><a href="mailto:omar.f.khan@vanderbilt.edu">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main>
+
+  <section class="page-header">
+    <div class="container">
+      <h1>Projects</h1>
+      <p>Hardware, power systems, and embedded engineering — from simulation to physical build.</p>
+    </div>
+  </section>
+
+  <!-- Microgrid Capstone -->
+  <section id="microgrid">
+    <div class="container">
+      <div class="project-section">
+        <div class="project-section-header">
+          <div class="project-section-meta">Senior Design Capstone · Sep 2025 – Present · Vanderbilt × Schneider Electric</div>
+          <h2>DER Microgrid Protection &amp; Control</h2>
+        </div>
+
+        <div class="stat-row">
+          <div class="stat">
+            <span class="stat-val">250 kW</span>
+            <span class="stat-label">DER capacity</span>
+          </div>
+          <div class="stat">
+            <span class="stat-val">~100</span>
+            <span class="stat-label">homes served</span>
+          </div>
+          <div class="stat">
+            <span class="stat-val">24 hr</span>
+            <span class="stat-label">dispatch profiles</span>
+          </div>
+        </div>
+
+        <p>
+          Leading the protection and control design for a 250&thinsp;kW islanded microgrid that could power
+          roughly 100 homes, developed in partnership with Schneider Electric engineers
+          Nurulwahida Jamaludin and Jinlei Xing. The project is simulated end-to-end in
+          MATLAB Simscape Electrical, from DER modeling through load dispatch validation.
+        </p>
+
+        <ul>
+          <li>Designed feeder protection schemes to detect, isolate, and clear faults between distributed energy resources and load — matching industry-grade DER coordination practices</li>
+          <li>Developed SOC-based BESS control logic to maintain voltage and frequency stability during islanded operation, including load-following and ramp-rate limiting</li>
+          <li>Built 24-hour load and solar irradiance profiles to validate system dispatch, resilience under cloud transients, and islanding recovery behavior</li>
+          <li>Implemented Git-based version control and standardized team workflows across a multi-person engineering team</li>
+          <li>Partnered directly with Schneider Electric engineers to validate protection architecture against commercial DER integration standards</li>
+        </ul>
+
+        <div class="exp-tags" style="margin-top: 8px;">
+          <span class="tag tag-accent">MATLAB Simscape Electrical</span>
+          <span class="tag">Power Systems</span>
+          <span class="tag">DER Integration</span>
+          <span class="tag">BESS Control</span>
+          <span class="tag">Feeder Protection</span>
+          <span class="tag">Islanded Microgrid</span>
+          <span class="tag">Git</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Syringe Pump -->
+  <section id="syringe-pump" style="border-top: 1px solid var(--border);">
+    <div class="container">
+      <div class="project-section">
+        <div class="project-section-header">
+          <div class="project-section-meta">Rapid Prototyping · Fall 2024 · Lead Electrical &amp; Software Engineer</div>
+          <h2>Automated Syringe Pump</h2>
+        </div>
+
+        <div class="award-chip">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          Best Compact Build — Rapid Prototyping, Fall 2024
+        </div>
+
+        <div class="stat-row">
+          <div class="stat">
+            <span class="stat-val">&lt;$80</span>
+            <span class="stat-label">total build cost</span>
+          </div>
+          <div class="stat">
+            <span class="stat-val">&gt;90%</span>
+            <span class="stat-label">cheaper than commercial</span>
+          </div>
+          <div class="stat">
+            <span class="stat-val">±0.0001</span>
+            <span class="stat-label">mL precision</span>
+          </div>
+        </div>
+
+        <p>
+          Commercial syringe pumps cost $800 or more. We built one for under $80 that matched
+          market-standard precision. The project was awarded Best Compact Build in the Fall 2024
+          Rapid Prototyping class and covered the full stack: mechanical design, custom electronics,
+          and real-time embedded firmware.
+        </p>
+
+        <div class="img-full">
+          <img src="/assets/images/SyringePumpProject/SyringePumpImage.png" alt="Completed syringe pump assembly">
+          <p class="img-caption">Completed assembly — compact enclosure with integrated motor drive and display</p>
+        </div>
+
+        <ul>
+          <li>Designed custom motor control hardware and led PCB prototyping and hand soldering</li>
+          <li>Implemented real-time embedded firmware in C++ using Arduino and the AccelStepper library for precise stepper motor control and acceleration profiling</li>
+          <li>Achieved ±0.0001&thinsp;mL volumetric precision, matching specifications of commercial units costing 10× more</li>
+          <li>Designed the enclosure and all mechanical components in Fusion 360 and fabricated via 3D printing and laser cutting</li>
+          <li>Delivered a full-stack solution: CAD → electronics design → firmware → assembly and calibration</li>
+        </ul>
+
+        <div class="img-grid-2">
+          <div>
+            <img src="/assets/images/SyringePumpProject/SyringePumpModel1.png" alt="CAD model view 1">
+            <p class="img-caption">Fusion 360 model — isometric view</p>
+          </div>
+          <div>
+            <img src="/assets/images/SyringePumpProject/SyringePumpModel2.png" alt="CAD model view 2">
+            <p class="img-caption">Fusion 360 model — exploded view</p>
+          </div>
+        </div>
+
+        <div class="img-full">
+          <img src="/assets/images/SyringePumpProject/SyringePumpElectricalSchematic.png" alt="Electrical schematic">
+          <p class="img-caption">Electrical schematic — motor drive, microcontroller, and sensor interfaces</p>
+        </div>
+
+        <div class="img-full">
+          <img src="/assets/images/SyringePumpProject/SPEnclosure.png" alt="Enclosure design">
+          <p class="img-caption">Custom enclosure design in Fusion 360</p>
+        </div>
+
+        <div class="exp-tags" style="margin-top: 8px;">
+          <span class="tag tag-accent">Arduino / C++</span>
+          <span class="tag">PCB Design</span>
+          <span class="tag">Fusion 360</span>
+          <span class="tag">Motor Control</span>
+          <span class="tag">3D Printing</span>
+          <span class="tag">AccelStepper</span>
+          <span class="tag">Embedded Firmware</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- IEEE Showcase -->
+  <section id="ieee-showcase" style="border-top: 1px solid var(--border);">
+    <div class="container">
+      <div class="project-section" style="padding-bottom: 0;">
+        <div class="project-section-header">
+          <div class="project-section-meta">IEEE at Vanderbilt · Founder &amp; Lead Organizer · 2025</div>
+          <h2>Vanderbilt IEEE Project Showcase</h2>
+        </div>
+
+        <div class="stat-row">
+          <div class="stat">
+            <span class="stat-val">First</span>
+            <span class="stat-label">ever at Vanderbilt</span>
+          </div>
+          <div class="stat">
+            <span class="stat-val">30+</span>
+            <span class="stat-label">student project teams</span>
+          </div>
+        </div>
+
+        <p>
+          The engineering department had high-quality labs and fabrication resources that most students
+          never touched. I founded the Vanderbilt IEEE Project Showcase to close that gap — creating a
+          structured venue where students could pursue personal engineering projects with access to funding,
+          mentorship, and real hardware.
+        </p>
+
+        <ul>
+          <li>Founded and hosted the first-ever Vanderbilt IEEE Project Showcase, establishing a repeatable framework for future events</li>
+          <li>Created a platform for students to pursue technical projects using university lab resources that had historically been underutilized</li>
+          <li>Provided start-up funding and technical mentorship for 30+ student project teams</li>
+          <li>Coordinated logistics, technical requirements, judging criteria, and outreach across multiple engineering disciplines</li>
+          <li>Shifted IEEE's role from passive programming to active technical enablement — students left with tangible project outcomes and presentation experience</li>
+        </ul>
+
+        <div class="exp-tags" style="margin-top: 8px;">
+          <span class="tag">Technical Leadership</span>
+          <span class="tag">Event Organization</span>
+          <span class="tag">Stakeholder Coordination</span>
+          <span class="tag">Engineering Education</span>
+          <span class="tag">Resource Enablement</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="container">
+    <div class="footer-inner">
+      <p class="footer-text">Omar Khan &nbsp;·&nbsp; ECE, Vanderbilt University</p>
+      <div class="footer-links">
+        <a href="/">Home</a>
+        <a href="/leadership.html">Leadership</a>
+        <a href="mailto:omar.f.khan@vanderbilt.edu">Email</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
