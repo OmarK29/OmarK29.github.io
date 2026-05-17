@@ -155,6 +155,32 @@ section + section { border-top: 1px solid var(--border); }
 }
 .about-text strong { color: var(--text-1); font-weight: 600; }
 
+/* ── Education ── */
+.edu-block {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius-lg); padding: 24px 28px;
+  box-shadow: var(--shadow); border-left: 4px solid var(--blue);
+}
+.edu-header {
+  display: flex; justify-content: space-between;
+  align-items: flex-start; flex-wrap: wrap; gap: 12px;
+  margin-bottom: 24px; padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+}
+.edu-degree { font-size: 16px; font-weight: 700; color: var(--text-1); margin-bottom: 4px; }
+.edu-school { font-size: 14px; color: var(--blue); font-weight: 500; margin-bottom: 4px; }
+.edu-meta { font-size: 13px; color: var(--text-3); }
+.edu-right { text-align: right; flex-shrink: 0; }
+.edu-gpa {
+  font-size: 26px; font-weight: 700; color: var(--blue); letter-spacing: -.02em; line-height: 1;
+}
+.edu-gpa span { font-size: 15px; font-weight: 500; color: var(--text-3); }
+.edu-grad { font-size: 13px; color: var(--text-3); font-weight: 500; margin-top: 4px; }
+.edu-courses {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px;
+}
+.edu-course-group {}
+
 /* ── Experience timeline ── */
 .exp-list { display: flex; flex-direction: column; }
 .exp-item {
