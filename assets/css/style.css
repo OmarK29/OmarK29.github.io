@@ -385,5 +385,11 @@ footer { border-top: 1px solid var(--border); padding: 32px 0; }
   .skills-grid { grid-template-columns: 1fr 1fr; }
   .img-grid-2 { grid-template-columns: 1fr; }
   .nav-links { gap: 16px; }
+  .nav-hide-mobile { display: none; }
   .stat-row { gap: 20px; }
+
+  /* Education header: keep GPA inline, shrink font */
+  .edu-header { flex-wrap: nowrap; align-items: center; gap: 8px; }
+  .edu-gpa { font-size: 18px; }
+  .edu-right { text-align: right; }
 }
