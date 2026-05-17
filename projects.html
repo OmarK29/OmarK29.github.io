@@ -28,7 +28,71 @@
   <section class="page-header">
     <div class="container">
       <h1>Projects</h1>
-      <p>Hardware, power systems, and embedded engineering — from simulation to physical build.</p>
+      <p>Hardware, power systems, embedded engineering, and software tools — from simulation to physical build.</p>
+    </div>
+  </section>
+
+  <!-- Node Mind Map -->
+  <section id="node-mind-map">
+    <div class="container">
+      <div class="project-section">
+        <div class="project-section-header">
+          <div class="project-section-meta">Personal Tool · Web App · 2025 – Ongoing</div>
+          <h2>Node Mind Map</h2>
+        </div>
+
+        <div class="project-links-row">
+          <a href="https://node-mind-map.vercel.app" class="btn btn-primary" target="_blank" rel="noopener">Live App &rarr;</a>
+          <a href="https://github.com/OmarK29/Node_Mind_Map" class="btn btn-secondary" target="_blank" rel="noopener">GitHub</a>
+        </div>
+
+        <div class="stat-row">
+          <div class="stat">
+            <span class="stat-val green">Live</span>
+            <span class="stat-label">deployed on Vercel</span>
+          </div>
+          <div class="stat">
+            <span class="stat-val green">39+</span>
+            <span class="stat-label">commits</span>
+          </div>
+          <div class="stat">
+            <span class="stat-val green">60</span>
+            <span class="stat-label">step undo history</span>
+          </div>
+        </div>
+
+        <p>
+          Standard note-taking apps — linear outlines, flat lists, rigid hierarchies — don't map to how ideas actually connect.
+          Thoughts branch laterally, loop back, and exist in relation to each other. So I built a tool that works the same way:
+          a fully canvas-based node-graph where ideas are first-class objects connected by labeled, directional paths.
+        </p>
+        <p>
+          Built in React with a custom Canvas API rendering layer. No backend — everything is saved locally,
+          with full export to JSON, CSV, and a custom plaintext format designed to round-trip cleanly with AI tools.
+          Useful for debate flow, annotating papers, planning projects with non-linear dependencies,
+          or just externalizing a tangled thought process into something you can actually look at.
+        </p>
+
+        <ul>
+          <li>Infinite pan/zoom canvas with labeled, directional connections and relation presets</li>
+          <li>Multiple independent maps with auto-save; multi-select, copy/paste, and batch operations</li>
+          <li>Per-node and per-edge style overrides; custom backgrounds (dots, grid, image URL)</li>
+          <li>Export to JSON, CSV, and plaintext; import and merge maps</li>
+          <li>Full keyboard shortcut suite; mobile-friendly touch pan and pinch zoom</li>
+          <li>AI-prompt templates built into the Help tab for structured export to LLMs</li>
+        </ul>
+
+        <div class="exp-tags" style="margin-top: 8px;">
+          <span class="tag tag-green">React</span>
+          <span class="tag tag-green">Canvas API</span>
+          <span class="tag tag-green">JavaScript</span>
+          <span class="tag tag-green">Vite</span>
+          <span class="tag">Local Storage</span>
+          <span class="tag">Vercel</span>
+          <span class="tag">CSS</span>
+          <span class="tag">Open Source</span>
+        </div>
+      </div>
     </div>
   </section>
 
