@@ -150,15 +150,6 @@ section + section { border-top: 1px solid var(--border); }
 .hero-side-imgs:last-child .hero-side-img:first-child { height: 155px; }
 .hero-side-imgs:last-child .hero-side-img:last-child { height: 155px; }
 
-.hero-portrait {
-  width: 88px; height: 88px;
-  border-radius: 50%;
-  object-fit: cover;
-  object-position: center top;
-  box-shadow: 0 4px 16px rgba(0,0,0,.15);
-  margin-bottom: 20px;
-  display: block;
-}
 .hero-eyebrow {
   font-size: 13px; font-weight: 500; color: var(--text-3);
   letter-spacing: .03em; margin-bottom: 14px;
