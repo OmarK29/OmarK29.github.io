@@ -4,7 +4,7 @@
 
 ## IEEE at Vanderbilt | Nashville, TN
 **President**
-**September 2023 - Present**
+**September 2023 - May 2026**
 
 - Grew membership by 95% to 152 members and regular attendance by 200% to 40+ students
 - Utilizing an annual $4,500+ budget for event execution, member acquisition, & creating a known presence
@@ -15,7 +15,7 @@
 
 ## Vanderbilt Taekwondo | Nashville, TN  
 **Head Instructor**  
-**September 2023 – Present**
+**September 2023 – May 2026**
 
 - Led outreach initiatives driving ~30% membership growth  
 - Instructed Taekwondo and self-defense classes of up to 30 students, leveraging 16 years of experience and a 2nd degree black belt  
